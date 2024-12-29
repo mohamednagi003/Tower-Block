@@ -1,4 +1,4 @@
-*Tower Stack Game
+#Tower Stack Game
 A fun and interactive 2D stacking game where you build a tower by aligning moving blocks. Test your precision and beat your highest score!
 
 #Features
@@ -31,8 +31,6 @@ UI Features:
 Displays the current score and highest score on the screen.
 Feedback messages guide the player during gameplay.
 #Screenshot
-![Screenshot 2024-12-29 035322](https://github.com/user-attachments/assets/e80c7f56-56f8-480e-a625-f28fc527e4bf)
-
 
 #Future Improvements
 Add levels or themes for variety.
