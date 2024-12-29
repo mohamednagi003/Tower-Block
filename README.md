@@ -40,6 +40,6 @@ Include sound effects for better immersion.
 Add a main menu and a pause feature.
 
 # Contributors
-Mohamed Nagi Fathallah
-Eslam Maged Mohamed
-Mahmoud Khaled Ibrahim
+### Mohamed Nagi Fathallah
+### Eslam Maged Mohamed
+### Mahmoud Khaled Ibrahim
